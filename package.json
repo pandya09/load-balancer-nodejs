@@ -1,0 +1,20 @@
+{
+  "name": "balanceyourload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seaport": "./node_modules/.bin/seaport"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandya09/load-balancer-nodejs.git"
+  },
+  "author": "pandya09",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.14.0",
+    "seaport": "^2.0.9"
+  }
+}
